@@ -6,6 +6,7 @@ const About = () => {
   return (
     <Flex
       py="32"
+      px="4"
       flexDirection={['column', '', '', 'row']}
       alignItems="flex-end"
       textAlign={['center', '', '', 'left']}
