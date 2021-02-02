@@ -25,7 +25,7 @@ const Header = () => {
   };
 
   return (
-    <Box position="relative" w="full" h={['100vh', '50vh']}>
+    <Box position="relative" w="full" h={['100vh', '60vh']}>
       <Image
         src={isLargerThanMobile ? DesktopBackground : MobileBackground}
         objectFit="cover"
@@ -83,7 +83,7 @@ const Header = () => {
           )}
         </Flex>
         <Flex
-          h={['90vh', '40vh']}
+          h={['90vh', '50vh']}
           color="white"
           justifyContent={['center', 'center', 'flex-start']}
           alignItems="center"
@@ -107,11 +107,12 @@ const Header = () => {
               border="1px"
               px="4"
               py={['8', '4']}
-              maxW="80"
+              maxW={['80', '80', 'md']}
               fontWeight="light"
               textTransform="uppercase"
-              fontSize="4xl"
-              lineHeight="10"
+              fontSize={['4xl', '4xl', '5xl', '5xl']}
+              lineHeight="shorter"
+              letterSpacing="wide"
             >
               Immersive Experiences That Deliver
             </Text>

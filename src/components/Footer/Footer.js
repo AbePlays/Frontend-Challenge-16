@@ -12,7 +12,7 @@ const Footer = () => {
   const [isLargerThanTablet] = useMediaQuery('(min-width: 62em)');
 
   return (
-    <Box bgColor="black" px="4">
+    <Box bgColor="black">
       <Flex
         color="white"
         textAlign="center"
@@ -20,6 +20,7 @@ const Footer = () => {
         alignItems="center"
         flexDirection={['column', 'column', 'column', 'row']}
         py="12"
+        px="4"
         maxW={['container.sm', 'container.sm', 'container.sm', 'container.lg']}
         mx="auto"
       >
@@ -87,7 +88,7 @@ const Footer = () => {
             </Link>
           </Stack>
           <Text mt="4" color="gray.400">
-            © 2021 Loopstudios. All rights reserved.{' '}
+            © 2021 Loopstudios. All rights reserved.
           </Text>
         </Box>
       </Flex>
