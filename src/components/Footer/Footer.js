@@ -35,6 +35,7 @@ const Footer = () => {
             mt="8"
             w="min-content"
             mx="auto"
+            fontWeight="bold"
           >
             <Link href="#">About</Link>
             <Link href="#">Careers</Link>

@@ -3,7 +3,7 @@ import {
   Button,
   Center,
   Flex,
-  Heading,
+  Text,
   SimpleGrid,
   useMediaQuery,
 } from '@chakra-ui/react';
@@ -39,18 +39,20 @@ const Products = () => {
         justifyContent={['center', 'center', 'space-between']}
         alignItems="center"
       >
-        <Heading
+        <Text
           textTransform="uppercase"
           fontWeight="hairline"
+          fontSize="3xl"
           letterSpacing="widest"
         >
           Our Creations
-        </Heading>
+        </Text>
         {!isSmallerThanTablet && (
           <Button
             bgColor="white"
             border="1px"
             borderRadius="none"
+            fontSize="xl"
             px="8"
             letterSpacing="widest"
             fontWeight="light"
@@ -111,9 +113,10 @@ const Products = () => {
             bgColor="white"
             border="1px"
             borderRadius="none"
+            fontSize="xl"
             px="8"
+            h="12"
             letterSpacing="widest"
-            fontWeight="light"
             textTransform="uppercase"
             _hover={{
               bgColor: 'black',

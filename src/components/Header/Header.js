@@ -47,7 +47,7 @@ const Header = () => {
         <Flex alignItems="center" justifyContent="space-between" h="10vh">
           <Heading>loopstudios</Heading>
           {isLargerThanTablet ? (
-            <HStack spacing="6">
+            <HStack spacing="6" fontWeight="bold" fontSize="xl">
               <Link href="#">About</Link>
               <Link href="#">Careers</Link>
               <Link href="#">Events</Link>
@@ -90,11 +90,10 @@ const Header = () => {
         >
           {!isLargerThanTablet && isMenuOpen ? (
             <VStack
-              spacing="4"
+              spacing="6"
               textTransform="uppercase"
               letterSpacing="widest"
-              fontSize="xl"
-              fontWeight="thin"
+              fontSize="2xl"
             >
               <Link href="#">About</Link>
               <Link href="#">Careers</Link>
@@ -104,7 +103,7 @@ const Header = () => {
             </VStack>
           ) : (
             <Text
-              border="1px"
+              border="2px"
               px="4"
               py={['8', '4']}
               maxW={['80', '80', 'md']}

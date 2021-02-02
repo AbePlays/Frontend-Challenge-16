@@ -1,4 +1,4 @@
-import { Box, Flex, Heading, Image, Text } from '@chakra-ui/react';
+import { Box, Flex, Image, Text } from '@chakra-ui/react';
 
 import Interactive from '../../assets/desktop/image-interactive.jpg';
 
@@ -21,7 +21,7 @@ const About = () => {
         bgColor="white"
         ml={['0', '0', '0', '-24']}
       >
-        <Heading
+        <Text
           fontWeight="hairline"
           textTransform="uppercase"
           letterSpacing="widest"
@@ -29,8 +29,13 @@ const About = () => {
           lineHeight="10"
         >
           The leader in interactive VR
-        </Heading>
-        <Text mt="4" color="gray.500" letterSpacing="wide" fontWeight="medium">
+        </Text>
+        <Text
+          mt="4"
+          color="gray.500"
+          letterSpacing="wide"
+          fontWeight="semibold"
+        >
           Founded in 2011, Loopstudios has been producing world-class virtual
           reality projects for some of the best companies around the globe. Our
           award-winning creations have transformed businesses through digital
