@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/Frontend-Challenge-16/static/js/main.e6f9fb3c.chunk.js",
+    "main.js.map": "/Frontend-Challenge-16/static/js/main.e6f9fb3c.chunk.js.map",
+    "runtime-main.js": "/Frontend-Challenge-16/static/js/runtime-main.fd4a8549.js",
+    "runtime-main.js.map": "/Frontend-Challenge-16/static/js/runtime-main.fd4a8549.js.map",
+    "static/js/2.0b170aa5.chunk.js": "/Frontend-Challenge-16/static/js/2.0b170aa5.chunk.js",
+    "static/js/2.0b170aa5.chunk.js.map": "/Frontend-Challenge-16/static/js/2.0b170aa5.chunk.js.map",
+    "index.html": "/Frontend-Challenge-16/index.html",
+    "static/js/2.0b170aa5.chunk.js.LICENSE.txt": "/Frontend-Challenge-16/static/js/2.0b170aa5.chunk.js.LICENSE.txt",
+    "static/media/image-curiosity.40d51f38.jpg": "/Frontend-Challenge-16/static/media/image-curiosity.40d51f38.jpg",
+    "static/media/image-curiosity.7f14665a.jpg": "/Frontend-Challenge-16/static/media/image-curiosity.7f14665a.jpg",
+    "static/media/image-deep-earth.2a157951.jpg": "/Frontend-Challenge-16/static/media/image-deep-earth.2a157951.jpg",
+    "static/media/image-deep-earth.f8da6014.jpg": "/Frontend-Challenge-16/static/media/image-deep-earth.f8da6014.jpg",
+    "static/media/image-fisheye.8bb3f74e.jpg": "/Frontend-Challenge-16/static/media/image-fisheye.8bb3f74e.jpg",
+    "static/media/image-fisheye.ff97b54e.jpg": "/Frontend-Challenge-16/static/media/image-fisheye.ff97b54e.jpg",
+    "static/media/image-from-above.b7b9dba0.jpg": "/Frontend-Challenge-16/static/media/image-from-above.b7b9dba0.jpg",
+    "static/media/image-from-above.f316f3f3.jpg": "/Frontend-Challenge-16/static/media/image-from-above.f316f3f3.jpg",
+    "static/media/image-grid.043c26ef.jpg": "/Frontend-Challenge-16/static/media/image-grid.043c26ef.jpg",
+    "static/media/image-grid.a8ce4f2b.jpg": "/Frontend-Challenge-16/static/media/image-grid.a8ce4f2b.jpg",
+    "static/media/image-hero.3de81110.jpg": "/Frontend-Challenge-16/static/media/image-hero.3de81110.jpg",
+    "static/media/image-hero.9b5aacea.jpg": "/Frontend-Challenge-16/static/media/image-hero.9b5aacea.jpg",
+    "static/media/image-interactive.1d330522.jpg": "/Frontend-Challenge-16/static/media/image-interactive.1d330522.jpg",
+    "static/media/image-night-arcade.a4f25d3b.jpg": "/Frontend-Challenge-16/static/media/image-night-arcade.a4f25d3b.jpg",
+    "static/media/image-night-arcade.a5acf9d0.jpg": "/Frontend-Challenge-16/static/media/image-night-arcade.a5acf9d0.jpg",
+    "static/media/image-pocket-borealis.0b89db1f.jpg": "/Frontend-Challenge-16/static/media/image-pocket-borealis.0b89db1f.jpg",
+    "static/media/image-pocket-borealis.799292df.jpg": "/Frontend-Challenge-16/static/media/image-pocket-borealis.799292df.jpg",
+    "static/media/image-soccer-team.18a63d8d.jpg": "/Frontend-Challenge-16/static/media/image-soccer-team.18a63d8d.jpg",
+    "static/media/image-soccer-team.24ac0872.jpg": "/Frontend-Challenge-16/static/media/image-soccer-team.24ac0872.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd4a8549.js",
+    "static/js/2.0b170aa5.chunk.js",
+    "static/js/main.e6f9fb3c.chunk.js"
+  ]
+}
