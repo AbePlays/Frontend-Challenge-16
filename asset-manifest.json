@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Frontend-Challenge-16/static/js/main.e6f9fb3c.chunk.js",
-    "main.js.map": "/Frontend-Challenge-16/static/js/main.e6f9fb3c.chunk.js.map",
+    "main.js": "/Frontend-Challenge-16/static/js/main.88b046ec.chunk.js",
+    "main.js.map": "/Frontend-Challenge-16/static/js/main.88b046ec.chunk.js.map",
     "runtime-main.js": "/Frontend-Challenge-16/static/js/runtime-main.fd4a8549.js",
     "runtime-main.js.map": "/Frontend-Challenge-16/static/js/runtime-main.fd4a8549.js.map",
     "static/js/2.0b170aa5.chunk.js": "/Frontend-Challenge-16/static/js/2.0b170aa5.chunk.js",
@@ -31,6 +31,6 @@
   "entrypoints": [
     "static/js/runtime-main.fd4a8549.js",
     "static/js/2.0b170aa5.chunk.js",
-    "static/js/main.e6f9fb3c.chunk.js"
+    "static/js/main.88b046ec.chunk.js"
   ]
 }
